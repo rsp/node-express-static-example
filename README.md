@@ -1,7 +1,9 @@
 node express static example
 ===========================
 
-Example for Stack Overflow.
+Example for Stack Overflow answer:
+
+* [Failed to load resource from same directory when redirecting Javascript](https://stackoverflow.com/questions/38441863/failed-to-load-resource-from-same-directory-when-redirecting-javascript/38442747#38442747)
 
 Installation
 ------------
