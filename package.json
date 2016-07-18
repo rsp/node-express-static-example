@@ -1,0 +1,22 @@
+{
+  "name": "node-express-static-example",
+  "version": "0.0.0",
+  "description": "Serving static files in Express - example for Stack Overflow",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/node-express-static-example.git"
+  },
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (https://rsp.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/node-express-static-example/issues"
+  },
+  "homepage": "https://github.com/rsp/node-express-static-example#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
