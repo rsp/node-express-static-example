@@ -5,6 +5,10 @@ Example for Stack Overflow answer:
 
 * [Failed to load resource from same directory when redirecting Javascript](https://stackoverflow.com/questions/38441863/failed-to-load-resource-from-same-directory-when-redirecting-javascript/38442747#38442747)
 
+Also referenced in another Stack Overflow answer:
+
+* [onload js call not working with node](https://stackoverflow.com/questions/38587286/onload-js-call-not-working-with-node/38587729#38587729)
+
 Installation
 ------------
 clone git repo:
