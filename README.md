@@ -10,6 +10,7 @@ Also referenced in other Stack Overflow answers:
 * [onload js call not working with node](https://stackoverflow.com/questions/38587286/onload-js-call-not-working-with-node/38587729#38587729)
 * [Sending whole folder content to client with express](https://stackoverflow.com/questions/40509666/sending-whole-folder-content-to-client-with-express/40510339#40510339)
 * [Loading partials fails on the server JS](https://stackoverflow.com/questions/40722476/loading-partials-fails-on-the-server-js/40722594#40722594)
+* [Node JS not serving the static image](https://stackoverflow.com/questions/40837359/node-js-not-serving-the-static-image/40839534#40839534)
 
 Installation
 ------------
