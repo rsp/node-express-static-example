@@ -1,6 +1,8 @@
 node express static example
 ===========================
 
+**UPDATE: See [node-static-http-servers](https://github.com/rsp/node-static-http-servers) repo for more examples of serving static files with `express.static`, `express`, `connect`, `http` and `net` and better explanation.**
+
 Example for Stack Overflow answer:
 
 * [Failed to load resource from same directory when redirecting Javascript](https://stackoverflow.com/questions/38441863/failed-to-load-resource-from-same-directory-when-redirecting-javascript/38442747#38442747)
@@ -11,9 +13,6 @@ Also referenced in other Stack Overflow answers:
 * [Sending whole folder content to client with express](https://stackoverflow.com/questions/40509666/sending-whole-folder-content-to-client-with-express/40510339#40510339)
 * [Loading partials fails on the server JS](https://stackoverflow.com/questions/40722476/loading-partials-fails-on-the-server-js/40722594#40722594)
 * [Node JS not serving the static image](https://stackoverflow.com/questions/40837359/node-js-not-serving-the-static-image/40839534#40839534)
-
-See also [node-static-http-servers](https://github.com/rsp/node-static-http-servers) repo and this answer for more examples of serving static files with `express.static`, `express`, `connect`, `http` and `net` and better explanation:
-
 * [How to serve an image using nodejs](http://stackoverflow.com/questions/5823722/how-to-serve-an-image-using-nodejs/40899767#40899767)
 
 Installation
