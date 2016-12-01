@@ -1,7 +1,7 @@
 node express static example
 ===========================
 
-**UPDATE: See [node-static-http-servers](https://github.com/rsp/node-static-http-servers) repo for more examples of serving static files with `express.static`, `express`, `connect`, `http` and `net` and better explanation.**
+**(UPDATE: See [node-static-http-servers](https://github.com/rsp/node-static-http-servers) repo for more examples of serving static files with `express.static`, `express`, `connect`, `http` and `net` and better explanation)**
 
 Example for Stack Overflow answer:
 
